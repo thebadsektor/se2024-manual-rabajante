@@ -89,8 +89,8 @@ Provide detailed instructions on how to use the project after setup:
 ![alt text](image-1.png)
 
 - Another Screenshot
-
 ![alt text](image-2.png)
+
 ## Project Structure
 Explain the structure of the project directory. Example:
 ```bash
