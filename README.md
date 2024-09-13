@@ -163,4 +163,4 @@ This project was built from [bikerental-website](https://github.com/EmailGeekFor
 
 ## License
 
-Specify the project's license. For starters, adapt the license of the original repository.
+This project is licensed under the GNU General Public License (GPL). You are free to use and modify the code for non-commercial purposes. However, you are not allowed to sell the code or any derivative works based on it.
