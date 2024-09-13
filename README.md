@@ -56,7 +56,7 @@ Step-by-step instructions for setting up the project locally.
    
 2. **Set up the environment:**
 	- Download and install XAMPP
-  - Open the XAMPP and start Apache and MySQL services
+  	- Open the XAMPP and start Apache and MySQL services
 
 3. **Database Setup**:
    - Import the provided database SQL file into phpMyAdmin.
