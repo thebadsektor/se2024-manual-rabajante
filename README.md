@@ -95,29 +95,90 @@ Provide detailed instructions on how to use the project after setup:
 Explain the structure of the project directory. Example:
 ```bash
 .
-├── BIKERENTAL-WEBSITE
-│   ├── admin
-│   ├── assets
-│   ├── include
-│   └── sqlfile
-├── about-us.php
-├── bicycle-list.php
-├── check_availability.php
-├── contact-us.php
-├── faqs.php
-├── image-1.png
-├── image-2.png
-├── image.png
-├── index.php
-├── LICENSE
-├── login account.txt
-├── logout.php
-├── my-booking.php
-├── my-testimonials.php
-├── profile
-├── README.md
-├── update-password.php
-└── vehical-details.php
+└── BIKERENTAL-WEBSITE/
+    ├── admin/
+    │   ├── css/
+    │   │   ├── css/
+    │   │   ├── less/
+    │   │   ├── awesome-bootstrap-checkbox.css
+    │   │   ├── bootstrap-select.css
+    │   │   ├── bootstrap-social.css
+    │   │   ├── bootstrap.min.css
+    │   │   └── dataTables.bootstrap.min.css
+    │   ├── fonts/
+    │   │   ├── FontAwesome.otf
+    │   │   ├── fontawesome-webfont.eot
+    │   │   ├── fontawesome-webfont.svg
+    │   │   ├── fontawesome-webfont.ttf
+    │   │   └── fontawesome-webfont.woff
+    │   ├── img/
+    │   │   ├── vehicleimages/
+    │   │   ├── adminlogin.jpg
+    │   │   └── profile.jpg
+    │   ├── include/
+    │   │   ├── config.php
+    │   │   ├── header.php
+    │   │   └── leftbar.php
+    │   └── js/
+    │       ├── Chart.min.js
+    │       ├── bootstrap-select.js
+    │       ├── bootstrap-select.min.js
+    │       ├── bootstrap.js
+    │       └── bootstrap.min.js
+    ├── assets/
+    │   ├── css/
+    │   │   ├── bootstrap-slider.min.css
+    │   │   ├── bootstrap.min.css
+    │   │   ├── font-awesome.min.css
+    │   │   ├── grabbing.html
+    │   │   └── owl.carousel.css
+    │   ├── fonts/
+    │   │   ├── fontawesome-webfont3e6e.eot
+    │   │   ├── fontawesome-webfont3e6e.html
+    │   │   ├── fontawesome-webfont3e6e.svg
+    │   │   ├── fontawesome-webfont3e6e.ttf
+    │   │   └── fontawesome-webfont3e6e.woff
+    │   ├── images/
+    │   │   ├── favicon-icon/
+    │   │   ├── about-us-header.jpg
+    │   │   ├── banner-section.jpg
+    │   │   ├── contact-page-header-img.jpg
+    │   │   ├── listing-page-header-img.jpg
+    │   │   └── logo-header.png
+    │   └── js/
+    │       ├── bootstrap-slider.min.js
+    │       ├── bootstrap.min.js
+    │       ├── countdown_date.js
+    │       ├── interface.js
+    │       └── jquery.countdown.min.js
+    ├── include/
+    │   ├── config.php
+    │   ├── footer.php
+    │   ├── forgotpassword.php
+    │   ├── header.php
+    │   ├── login.php
+    │   ├── registration.php
+    │   └── sidebar.php
+    ├── sqlfile/
+    │   └── bikerental.sql
+    ├── about-us.php
+    ├── bicycle-list.php
+    ├── check_availability.php
+    ├── contact-us.php
+    ├── faqs.php
+    ├── image-1.png
+    ├── image-2.png
+    ├── image.png
+    ├── index.php
+    ├── LICENSE
+    ├── login account.txt
+    ├── logout.php
+    ├── my-booking.php
+    ├── my-testimonials.php
+    ├── profile
+    ├── README.md
+    ├── update-password.php
+    └── vehical-details.php
 ```
 
 ## Contributors
