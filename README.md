@@ -194,8 +194,22 @@ List all the team members involved in the project. Include their roles and respo
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Collaborative Brainstorming for Feature Development.
-	- [Features]
-   
+  	- September 15, 2024
+  	- Meeting Recording Link: [https://youtu.be/n0d_jJgTQu8?si=qrxRbeZGuZHLpBJC]
+
+       Proposes Features:
+	- Route planning feature
+   	- Loyalty program
+   	- Group ride booking
+   	- Real-time notifications
+   	- Subscription plan
+   	- Bike maintenance reporting feature
+   	- QR code-based bike pickup
+   	- Ride history and stats
+   	- Special discounts for dorm residents
+   	- Bike Reservation Reminders
+
+
  	- Feature: Dockerize Project
 	- Target Completion: 27/10/2024
    
